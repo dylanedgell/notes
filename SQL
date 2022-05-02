@@ -1,0 +1,15 @@
+## Notes on SQL Queries and Functions
+
+Basic Select Statement
+
+SELECT column1
+FROM table2
+
+## ROUNDING
+ROUND(number, length [,function])
+
+Positive numbers round on the right side of the decimal
+Negative numbers round on the left side of the decimal
+
+## TRUNCATE
+ROUND(column1, length, 1)
